@@ -3,6 +3,7 @@
 A Cofee ordering app made with Flutter - CS426 Midterms @ APCS HCMUS
 
 [Report](https://docs.google.com/document/d/1AEF-74lneYKBbBwxCO5P7loNFJ9MIf610pYcbbhDy78/edit?usp=sharing)
+
 [Video](https://drive.google.com/file/d/1TFUShYQ_2xqbK-ImGIgcniyoqWyK3rns/view?usp=sharing)
 
 ## Getting Started
